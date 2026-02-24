@@ -7,6 +7,8 @@ This project focuses on researching and developing an automated system for evalu
 - Bùi Quốc Bảo - ISE-UIT
 - Lê Minh Khôi - ISE-UIT
 
+## Video demo 
+Link : https://youtu.be/gUMCPC069E0
 ## 📖 Data
 
 - [AdImageNet](https://huggingface.co/datasets/PeterBrendan/AdImageNet?utm_source=chatgpt.com): Banner image dataset published by author Peter Brendan.
