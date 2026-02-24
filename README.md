@@ -13,6 +13,13 @@ This project focuses on researching and developing an automated system for evalu
 - Experimental Data: Our team extracted and assigned labels to 4502 banner samples.
 - Labeling Process: Labels were manually assigned on a scale from 0 to 5 based on guidelines from graphic design experts. To ensure reliability, the team performed statistical tests on a representative sample of 500 samples against the expert's labels.
 
+## 🤖 Pre-trained Models
+
+Due to limitation, model evaluating aesthetic score will be storaged in hugging face
+
+| Model Name | Download Link | Size |
+| :--- | :--- | :--- |
+| **Fine-tuned CLIP** | [Download from Hugging Face 🤗](https://huggingface.co/lmka05/Aesthetic_score_model) | ~335 MB |
 
 ## 🛠️ System Architecture
 The system is designed using a multi-model framework, combining three advanced architectures to evaluate three core criteria:
@@ -63,3 +70,8 @@ Performance of the models on the test set (scale 1-5):
 - Data Improvement: Hire more experts to expand the label set and cover more modern design styles.
 - Technical Optimization: Research Multi-task Learning architecture (Unified Backbone) to run three prediction branches simultaneously, reducing model size and increasing processing speed.
 - Adding Criteria: Add evaluation models for composition and color harmony.
+
+## 🏁 How to use this projects
+- Make sure you have enough model files
+- Change direction into `/Usage/`
+- VVRun script inference: `Inference.ipynb` (Please change your local path to file model)
