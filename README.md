@@ -21,8 +21,8 @@ Due to limitation, model evaluating aesthetic score will be storaged in hugging 
 
 | Model Name | Download Link | Size |
 | :--- | :--- | :--- |
-| **Fine-tuned Extract Model** | [lmka05/Aesthetic_score_model](https://huggingface.co/lmka05/Aesthetic_score_model) | ~335 MB |
-| **Fine-tuned Rerank Model** | [huynhdat543/VietNamese_law_rerank](https://huggingface.co/huynhdat543/VietNamese_law_rerank) | ~1.24 GB |
+| **Fine-tuned Aesthetic Evaluation Model** | [lmka05/Aesthetic_score_model](https://huggingface.co/lmka05/Aesthetic_score_model) | ~335 MB |
+| **Fine-tuned Contrast Evaluation Model** | [huynhdat543/image_contrast_score](https://huggingface.co/huynhdat543/image_contrast_score) | ~19.5 MB |
 
 ## 🛠️ System Architecture
 The system is designed using a multi-model framework, combining three advanced architectures to evaluate three core criteria:
