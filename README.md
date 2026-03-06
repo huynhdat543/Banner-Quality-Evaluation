@@ -17,7 +17,7 @@ Link : https://youtu.be/gUMCPC069E0
 
 ## 🤖 Pre-trained Models
 
-Due to limitation, model evaluating aesthetic score will be storaged in hugging face
+Due to limitation, model evaluating aesthetic score will be storaged in hugging face.
 
 | Model Name | Download Link | Size |
 | :--- | :--- | :--- |
