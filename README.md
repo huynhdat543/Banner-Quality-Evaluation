@@ -23,6 +23,7 @@ Due to limitation, model evaluating aesthetic score will be storaged in hugging 
 | :--- | :--- | :--- |
 | **Fine-tuned Aesthetic Evaluation Model** | [lmka05/Aesthetic_score_model](https://huggingface.co/lmka05/Aesthetic_score_model) | ~335 MB |
 | **Fine-tuned Contrast Evaluation Model** | [huynhdat543/image_contrast_score](https://huggingface.co/huynhdat543/image_contrast_score) | ~19.5 MB |
+| **Fine-tuned Readability Evaluation Model** | [bqbbao6/readability_model](https://huggingface.co/bqbbao6/readability_model) | ~114 MB |
 
 ## 🛠️ System Architecture
 The system is designed using a multi-model framework, combining three advanced architectures to evaluate three core criteria:
